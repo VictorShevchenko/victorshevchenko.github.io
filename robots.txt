@@ -1,0 +1,3 @@
+	User-agent: *
+	Allow: /
+	Sitemap: http://shevchenko.today/sitemap.xml
